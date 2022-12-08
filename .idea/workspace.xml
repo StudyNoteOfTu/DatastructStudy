@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3da5edf2-817d-458b-99bd-d51cf5227b27" name="Default Changelist" comment="" />
+    <list default="true" id="3da5edf2-817d-458b-99bd-d51cf5227b27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/CloneList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/HashAndTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework2ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework3ListPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class03/SortArrayDistanceLessKandPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class03/SortArrayDistanceLessKandPriorityQueue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +28,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2IWtOwfUhAPIyEHrBtGnI6ICp26" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Homework">
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.basic.class05.Homework" />
+      <module name="DataStructStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.basic.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="DataStructStudy" />
@@ -30,6 +64,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,9 +96,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1670384420032">
+    <state width="724" height="213" key="GridCell.Tab.0.bottom" timestamp="1670422496507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1670384420032" />
+    <state width="724" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
+    <state width="724" height="213" key="GridCell.Tab.0.center" timestamp="1670422496507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
+    <state width="724" height="213" key="GridCell.Tab.0.left" timestamp="1670422496507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
+    <state width="724" height="213" key="GridCell.Tab.0.right" timestamp="1670422496507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="724" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1670471064259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1670471064259" />
+    <state x="178" y="29" key="new project wizard" timestamp="1670471089525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1670471089525" />
   </component>
 </project>
