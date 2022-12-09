@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da5edf2-817d-458b-99bd-d51cf5227b27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/CloneList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/HashAndTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework2ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class05/Homework3ListPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06/BFT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class03/SortArrayDistanceLessKandPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class03/SortArrayDistanceLessKandPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class06/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class06/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/code19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/code19.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,5 +114,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1670471089525" />
+    <state x="41" y="69" width="672" height="676" key="search.everywhere.popup" timestamp="1670589091708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="41" y="69" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1670589091708" />
   </component>
 </project>

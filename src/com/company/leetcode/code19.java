@@ -1,6 +1,5 @@
 package com.company.leetcode;
 
-
 import com.company.leetcode.base.ListNode;
 
 /**
