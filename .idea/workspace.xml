@@ -2,13 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3da5edf2-817d-458b-99bd-d51cf5227b27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06/BFT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/code23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/GetPublicAncientNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/IsBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/IsBalanceBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/IsCompleteBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/IsFullBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/PaperFolding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/SerializeAndReconstructBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/SuccessorNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class07Graphic/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class07Graphic/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class07Graphic/MinPath_Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class07Graphic/MinSpannedTree_Kruskal_Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class07Graphic/TopologySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class08prefixTree_GreedyAlgorithms/GreedyMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class08prefixTree_GreedyAlgorithms/MaxMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class08prefixTree_GreedyAlgorithms/MidNumber_byHeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class08prefixTree_GreedyAlgorithms/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class08prefixTree_GreedyAlgorithms/RandomSampleConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class08prefixTree_GreedyAlgorithms/SplitGold_lessMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class08prefixTree_GreedyAlgorithms/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class09violantRecursion/BagWithMaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class09violantRecursion/CardsInLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class09violantRecursion/ConvertToLetterString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class09violantRecursion/Hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class09violantRecursion/PrintAllPermutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class09violantRecursion/PrintAllSubSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic/class09violantRecursion/ReverseStackUsingRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic_plus/class01Hash/BitMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic_plus/class01Hash/MostFrequentNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic_plus/class01Hash/RandomPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/basic_plus/class01Hash/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/TreeNode2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/TrieNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/graph/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/graph/GraphGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/graph/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code110_star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leetcode/tree/code99.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class06/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class06/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/code19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/code19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class02/InversionCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class02/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class02/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class02/SmallSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class03/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class03/SortArrayDistanceLessKandPriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class04/CountSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class04/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class04/总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class05/HashAndTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class05/HashAndTree$NodeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class05/HashAndTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class05/Homework$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructStudy/com/company/basic/class05/Homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class02/InversionCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class02commonSort/InversionCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class02/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class02commonSort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class02/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class02commonSort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class02/SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class02commonSort/SmallSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class03/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class03heapSort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class03/SortArrayDistanceLessKandPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class03heapSort/SortArrayDistanceLessKandPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class04/CountSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class04Sort/CountSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class04/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class04Sort/RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class04/总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class04Sort/总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class05/CloneList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class05List/CloneList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class05/HashAndTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class05List/HashAndTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class05/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class05List/Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class05/Homework11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class05List/Homework11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class05/Homework2ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class05List/Homework2ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class05/Homework3ListPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class05List/Homework3ListPartition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class06/BFT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/BFT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/basic/class06/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/basic/class06Tree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/base/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/base/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/code02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/code19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/code21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leetcode/code23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leetcode/list/code23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +108,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -26,21 +117,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2IWtOwfUhAPIyEHrBtGnI6ICp26" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company/leetcode/base" />
   </component>
-  <component name="RunManager" selected="Application.Homework">
-    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.basic.class05.Homework" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProjects\DataStructStudy\src\com\company\leetcode\base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.code100">
+    <configuration name="PrintAllSubSequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.basic.class09violantRecursion.PrintAllSubSequences" />
       <module name="DataStructStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.basic.class05.*" />
+          <option name="PATTERN" value="com.company.basic.class09violantRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,19 +147,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="code100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.tree.code100" />
       <module name="DataStructStudy" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.leetcode.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code86" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.list.code86" />
+      <module name="DataStructStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.leetcode.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.list.code92" />
+      <module name="DataStructStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.leetcode.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="code99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leetcode.tree.code99" />
+      <module name="DataStructStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.leetcode.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Homework" />
+        <item itemvalue="Application.code100" />
+        <item itemvalue="Application.code99" />
+        <item itemvalue="Application.code92" />
+        <item itemvalue="Application.code86" />
+        <item itemvalue="Application.PrintAllSubSequences" />
       </list>
     </recent_temporary>
   </component>
@@ -90,33 +235,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="724" height="213" key="GridCell.Tab.0.bottom" timestamp="1670422496507">
+    <state x="190" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1673141462828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
-    <state width="724" height="213" key="GridCell.Tab.0.center" timestamp="1670422496507">
+    <state x="190" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1673141462828" />
+    <state x="176" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1670923428431">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="213" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
-    <state width="724" height="213" key="GridCell.Tab.0.left" timestamp="1670422496507">
+    <state x="176" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1670923428431" />
+    <state x="54" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1671261988150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="213" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
-    <state width="724" height="213" key="GridCell.Tab.0.right" timestamp="1670422496507">
+    <state x="54" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1671261988150" />
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom" timestamp="1673185481338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="724" height="213" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1670422496507" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1670471064259">
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1673185481338" />
+    <state width="1493" height="197" key="GridCell.Tab.0.center" timestamp="1673185481338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1670471064259" />
-    <state x="178" y="29" key="new project wizard" timestamp="1670471089525">
+    <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1673185481338" />
+    <state width="1493" height="197" key="GridCell.Tab.0.left" timestamp="1673185481338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1670471089525" />
-    <state x="41" y="69" width="672" height="676" key="search.everywhere.popup" timestamp="1670589091708">
+    <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1673185481338" />
+    <state width="1493" height="197" key="GridCell.Tab.0.right" timestamp="1673185481338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="41" y="69" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1670589091708" />
+    <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1673185481338" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1673230833907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1673230833907" />
+    <state x="178" y="29" key="new project wizard" timestamp="1672735076618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1672735076618" />
+    <state x="48" y="189" key="run.anything.popup" timestamp="1670923203050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="48" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1670923203050" />
+    <state x="41" y="69" width="672" height="676" key="search.everywhere.popup" timestamp="1673184079756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="41" y="69" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1673184079756" />
   </component>
 </project>
